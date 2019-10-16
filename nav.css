@@ -1,0 +1,19 @@
+.navbar {
+    padding: 5px;
+    background: #5191fd;
+  }
+.navbar li {
+    display: inline-block;
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;
+  }
+  
+  /* Getting rid of the default link styles here */
+  .navbar li a {
+    color: #000;
+    text-decoration: none;
+  }
